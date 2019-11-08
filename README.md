@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-$ pip install althochdeutsch
+$ pip install altdeutsch
 ```
 
 

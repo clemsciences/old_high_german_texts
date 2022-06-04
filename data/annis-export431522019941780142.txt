@@ -1,0 +1,1466 @@
+0.	tok	 . . . s in  tac  piqueme ,  daz  er  touuan  scal .  
+	lemma	 sin tag biqueman daz er touwen sculan 
+	inflection	 MASC_SG_NOM_0 SG_NOM SUBJ_PRES_SG_3 MASC_SG_NOM_3 IND_PRES_SG_3 
+	edition	 . . . sin tac piqueme , daz er touuan scal . 
+	pos	 $. $. $. DPOS NA VVFIN $, KOUS PPER VVINF VMFIN $. 
+	text	 . . . sin tac piqueme , daz er touuan scal . 
+	translation	 sein Tag kommen, heran- da er, sie, es sterben sollen, müssen; werden, wollen 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_O 
+	inflectionClass	 A,O A_MASC ST4 WK1B PRPR 
+	posLemma	 $. $. $. DPOS NA VV $, KO PPER VV VM $. 
+	inflectionClassLemma	 A,O A_MASC ST4 WK1B PRPR 
+
+
+1.	tok	 unanta  sâr  sô  sih  diu  sela  in  den  sind  arhevit ,  
+	lemma	 wanta sar so sih der sela in der sind irheffen 
+	inflection	 SG_ACC_3 FEM_SG_NOM SG_NOM MASC_SG_ACC SG_ACC IND_PRES_SG_3 
+	edition	 unanta sâr sô sih diu sela in den sind arhevit , 
+	pos	 KOUS KOUS PRF DDA NA APPR DDA NA VVFIN $, 
+	text	 unanta sar so sih diu sela in den sind arhevit , 
+	translation	 wenn sobald (wie) sich der, die, das Seele in, auf der, die, das Weg, Richtung (er)heben, empor- 
+	lang	 goh goh goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp 
+	inflectionClass	 O_FEM A_MASC ST6 
+	posLemma	 KO KO PRF DD NA AP DD NA VV $, 
+	inflectionClassLemma	 O_FEM A_MASC ST6 
+
+
+2.	tok	 enti  si  den  lihhamun  likkan  lâzzit ,  
+	lemma	 inti er der lihhamo liggen lazan 
+	inflection	 FEM_SG_NOM_3 MASC_SG_ACC SG_ACC IND_PRES_SG_3 
+	edition	 enti si den lihhamun likkan lâzzit , 
+	pos	 KON PPER DDA NA VVINF VVFIN $, 
+	text	 enti si den lihhamun likkan lazzit , 
+	translation	 und er, sie, es der, die, das Körper (da)liegen lassen 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp 
+	inflectionClass	 N_MASC ST5 RED1 
+	posLemma	 KO PPER DD NA VV VV $, 
+	inflectionClassLemma	 N_MASC ST5 RED1 
+
+
+3.	tok	 sô  quimit  ein  heri  fona  himilzungalon ,  
+	lemma	 so queman ein heri fona himilzungal 
+	inflection	 IND_PRES_SG_3 NEUT_SG_NOM_0 SG_NOM PL_DAT 
+	edition	 sô quimit ein heri fona himilzungalon , 
+	pos	 ADV VVFIN CARD NA APPR NA $, 
+	text	 so quimit ein heri fona himilzungalon , 
+	translation	 s kommen ein Menge, (Kriegs)schar, Truppe, Streitmacht, Heer von (Himmels)gestirn 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 ST4 A,O JA_NEUT A_NEUT 
+	posLemma	 ADV VV CARD NA AP NA $, 
+	inflectionClassLemma	 ST4 A,O JA_MASC,NEUT A_NEUT 
+
+
+4.	tok	 daz  andar  fona  pehhe : dâr  pâgant  siu  umpi .  
+	lemma	 der ander fona peh dar bagan er umbi 
+	inflection	 NEUT_SG_NOM NEUT_SG_NOM_0 SG_DAT IND_PRES_PL_3 NEUT_PL_NOM_3 
+	edition	 daz andar fona pehhe : dâr pâgant siu umpi . 
+	pos	 DDA DIS APPR NA $. ADV VVFIN PPER APPAV $. 
+	text	 daz andar fona pehhe : dar pagant siu umpi . 
+	translation	 der, die, das der andere von Pech; Unterwelt, Hölle(nfeuer) da, dort (mit Worten) streiten, kämpfen er, sie, es um 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 A,O A_NEUT RED1 
+	posLemma	 DD DI AP NA $. ADV VV PPER AP $. 
+	inflectionClassLemma	 A,O A_NEUT RED1 
+
+
+5.	tok	 Sorgen  mac  diu  sela ,  unzi  diu  suona  arget ,  
+	lemma	 sorgen magan der sela unzi der suona irgan 
+	inflection	 IND_PRES_SG_3 FEM_SG_NOM SG_NOM FEM_SG_NOM SG_NOM IND_PRES_SG_3 
+	edition	 Sorgen mac diu sela , unzi diu suona arget , 
+	pos	 VVINF VMFIN DDA NA $, KOUS DDA NA VVFIN $, 
+	text	 Sorgen mac diu sela , unzi diu suona arget , 
+	translation	 in Sorge sein (wegen), besorgt sein können; müssen der, die, das Seele bis der, die, das Urteil, Entscheidung, Entschluß vergehen; er-, geschehen 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Adv_Temp 
+	inflectionClass	 WK3B PRPR O_FEM O_FEM IRR 
+	posLemma	 VV VM DD NA $, KO DD NA VV $, 
+	inflectionClassLemma	 WK3B PRPR O_FEM O_FEM IRR 
+
+
+6.	tok	 za  uuederemo  herie  si  gihalôt  u uerde .  
+	lemma	 zi wedar heri er halon werdan 
+	inflection	 NEUT_SG_DAT_ST SG_DAT FEM_SG_NOM_3 SUBJ_PRES_SG_3 
+	edition	 za uuederemo herie si gihalôt uuerde . 
+	pos	 APPR DW NA PPER VVPP VAFIN $. 
+	text	 za uuederemo herie si gihalot uuerde . 
+	translation	 zu wer (von beiden), was, welcher (von beiden) Menge, (Kriegs)schar, Truppe, Streitmacht, Heer er, sie, es (herbei)holen, (herbei)rufen werden 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 P JA_NEUT WK2 ST3B 
+	posLemma	 AP DW NA PPER VV VA $. 
+	inflectionClassLemma	 A,O JA_MASC,NEUT WK2 ST3B 
+
+
+7.	tok	 uuanta  ipu  sia  daz  Satanazses  kisindi  k i uuinnit ,  
+	lemma	 wanta ibu er der Satanas gisindi giwinnan 
+	inflection	 FEM_SG_ACC_3 NEUT_SG_NOM_ST SG_GEN SG_NOM IND_PRES_SG_3 
+	edition	 uuanta ipu sia daz Satanazses kisindi kiuuinnit , 
+	pos	 KON KOUS PPER DDA NE NA VVFIN $, 
+	text	 uuanta ipu sia daz Satanazses kisindi kiuuinnit , 
+	translation	 denn wenn,falls er, sie, es der, die, das Satan Dienerschaft, Jünger-, Gefolge (für sich) gewinnen, erwählen 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Cnd 
+	inflectionClass	 A_MASC JA_NEUT ST3A 
+	posLemma	 KO KO PPER DD NA NA VV $, 
+	inflectionClassLemma	 A_MASC JA_NEUT ST3A 
+
+
+8.	tok	 daz  leitit  sia  sâr  dâr  iru  leid  uuirdit ,  
+	lemma	 der leiten er sar dar er leid werdan 
+	inflection	 NEUT_SG_NOM IND_PRES_SG_3 FEM_SG_ACC_3 FEM_SG_DAT_3 SG_NOM IND_PRES_SG_3 
+	edition	 daz leitit sia sâr dâr iru leid uuirdit , 
+	pos	 DDS VVFIN PPER ADV PWAV PPER NA VAFIN $, 
+	text	 daz leitit sia sar dar iru leid uuirdit , 
+	translation	 der, die, das (ge)leiten, lenken, führen er, sie, es sofort, (so)gleich da; wo er, sie, es Leid, Schmerz, Unglück werden 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Adv_Loc 
+	inflectionClass	 WK1A A_NEUT ST3B 
+	posLemma	 DD VV PPER ADV ADV PPER NA VA $, 
+	inflectionClassLemma	 WK1A A_NEUT ST3B 
+
+
+9.	tok	 in  fuir  enti  in  finstri : daz  ist  re h to  virinlih  ding .  
+	lemma	 in fiur inti in finstari der sin rehto firinlih ding 
+	inflection	 SG_ACC SG_ACC NEUT_SG_NOM IND_PRES_SG_3 POS_NEUT_SG_NOM_0 SG_NOM 
+	edition	 in fuir enti in finstri : daz ist rehto virinlih ding . 
+	pos	 APPR NA KON APPR NA $. DDS VAFIN ADV ADJ NA $. 
+	text	 in fuir enti in finstri : daz ist rehto virinlih ding . 
+	translation	 in Feuer(sglu und in Finsternis, Dunkelheit der, die, das sein wirklich grausam, schrecklich Ding, Sache, Angelegenheit 
+	lang	 goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Loc CF_U_M 
+	inflectionClass	 A_NEUT IN_FEM IRR A,O A_NEUT 
+	posLemma	 AP NA KO AP NA $. DD VA ADV ADJ NA $. 
+	inflectionClassLemma	 A_NEUT IN_FEM IRR A,O A_NEUT 
+
+
+10.	tok	 Upi  sia  a var  kihalônt  die  die  dâr  fona  himile  quemant ,  
+	lemma	 ibu er afar gihalon der der dar fona himil queman 
+	inflection	 FEM_SG_ACC_3 IND_PRES_PL_3 MASC_PL_NOM MASC_PL_NOM SG_DAT IND_PRES_PL_3 
+	edition	 Upi sia avar kihalônt die die dâr fona himile quemant , 
+	pos	 KOUS PPER ADV VVFIN DDS DDSREL ADV APPR NA VVFIN $, 
+	text	 Upi sia avar kihalont die die dar fona himile quemant , 
+	translation	 wenn, falls er, sie, es aber, (je)doch, dagegen her(bei)holen, herbeirufen der, die, das der, die, das da von Himmel kommen 
+	lang	 goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_CS_I_Adv_Cnd CF_I_Rel 
+	inflectionClass	 WK2 A_MASC ST4 
+	posLemma	 KO PPER ADV VV DD DD ADV AP NA VV $, 
+	inflectionClassLemma	 WK2 A_MASC ST4 
+
+
+11.	tok	 enti  si  dero  engilo  eigan  uuirdit ,  
+	lemma	 inti er der engil eigan werdan 
+	inflection	 FEM_SG_NOM_3 MASC_PL_GEN PL_GEN POS IND_PRES_SG_3 
+	edition	 enti si dero engilo eigan uuirdit , 
+	pos	 KON PPER DDA NA ADJD VAFIN $, 
+	text	 enti si dero engilo eigan uuirdit , 
+	translation	 und er, sie, es der, die, das Engel eigen, zugehörig werden 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_CC_I_Adv_Cnd 
+	inflectionClass	 A_MASC A,O ST3B 
+	posLemma	 KO PPER DD NA ADJ VA $, 
+	inflectionClassLemma	 A_MASC A,O ST3B 
+
+
+12.	tok	 die  pringent  s i a  sâr  uf  in  himilo  rihi :  
+	lemma	 der bringan er sar uf in himil rihhi 
+	inflection	 MASC_PL_NOM IND_PRES_PL_3 FEM_SG_ACC_3 PL_GEN SG_ACC 
+	edition	 die pringent sia sâr uf in himilo rihi : 
+	pos	 DDS VVFIN PPER ADV ADV APPR NA NA $. 
+	text	 die pringent sia sar uf in himilo rihi : 
+	translation	 der, die, das (herbei)bringen, hin- er, sie, es sofort, (so)gleich hinauf, (her)auf, empor in Himmel Reich 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 ST3A A_MASC JA_NEUT 
+	posLemma	 DD VV PPER ADV ADV AP NA NA $. 
+	inflectionClassLemma	 WK1A,ST3A A_MASC JA_NEUT 
+
+
+13.	tok	 dâr  ist  lip  âno  tôd ,  lioht  âno  finst r i ,  
+	lemma	 dar sin lib anu tod lioht anu finstari 
+	inflection	 IND_PRES_SG_3 SG_NOM SG_ACC SG_NOM SG_ACC 
+	edition	 dâr ist lip âno tôd , lioht âno finstri , 
+	pos	 ADV VAFIN NA APPR NA $, NA APPR NA $, 
+	text	 dar ist lip ano tod , lioht ano finstri , 
+	translation	 da, dort, hier sein Leben ohne Tod, Untergang Licht ohne Finsternis, Dunkelheit 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 IRR A_MASC,NEUT A_MASC A_NEUT IN_FEM 
+	posLemma	 ADV VA NA AP NA $, NA AP NA $, 
+	inflectionClassLemma	 IRR A_MASC,NEUT A_MASC A_NEUT IN_FEM 
+
+
+14.	tok	 selida  âno  sorgun : dâ r  n ist  neoman  siuh .  
+	lemma	 selida anu sorga dar ni sin nioman sioh 
+	inflection	 SG_NOM SG_ACC IND_PRES_SG_3 MASC_SG_NOM POS 
+	edition	 selida âno sorgun : dâr nist neoman siuh . 
+	pos	 NA APPR NA $. ADV PTKNEG VAFIN PINEG ADJD $. 
+	text	 selida ano sorgun : dar n ist neoman siuh . 
+	translation	 Wohnung, Herberge ohne Sorge, Besorgnis, Angst da, dort nicht sein niemand, keiner krank, schwach 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 O_FEM N_FEM IRR A,C A,O 
+	posLemma	 NA AP NA $. ADV PTK VA PI ADJ $. 
+	inflectionClassLemma	 O_FEM O_FEM,N_FEM IRR A,C A,O 
+
+
+15.	tok	 denne  der  man  in  pard i su  pu  kiuuinnit ,  
+	lemma	 danne der man in paradis bu giwinnan 
+	inflection	 MASC_SG_NOM SG_NOM SG_INS SG_ACC IND_PRES_SG_3 
+	edition	 denne der man in pardisu pu kiuuinnit , 
+	pos	 KOUS DDA NA APPR NA NA VVFIN $, 
+	text	 denne der man in pardisu pu kiuuinnit , 
+	translation	 wenn der, die, das Mensch; Mann in Paradies Wohnsitz, Wohnstatt, Wohnung (für sich) gewinnen 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp 
+	inflectionClass	 C,A_MASC A_NEUT A_MASC ST3A 
+	posLemma	 KO DD NA AP NA NA VV $, 
+	inflectionClassLemma	 C,A_MASC A_NEUT A_MASC ST3A 
+
+
+16.	tok	 hus  in  himile ,  dâr  quimit  imo  hilfa  kinuok .  
+	lemma	 hus in himil dar queman er helfa ginuog 
+	inflection	 SG_ACC SG_DAT IND_PRES_SG_3 MASC_SG_DAT_3 SG_NOM POS 
+	edition	 hus in himile , dâr quimit imo hilfa kinuok . 
+	pos	 NA APPR NA $, ADV VVFIN PPER NA ADJD $. 
+	text	 hus in himile , dar quimit imo hilfa kinuok . 
+	translation	 Haus, Wohnung in Himmel da, dort kommen er, sie, es Hilfe, Beistand genug, hinreichend, reichlich 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp CF_U_M 
+	inflectionClass	 A_NEUT A_MASC ST4 O_FEM A,O 
+	posLemma	 NA AP NA $, ADV VV PPER NA ADJ $. 
+	inflectionClassLemma	 A_NEUT A_MASC ST4 O_FEM A,O 
+
+
+17.	tok	 Pid i u  i s t  ̣ d u r f t  mihhil  
+	lemma	 bidiu sin durft mihhil 
+	inflection	 IND_PRES_SG_3 SG_NOM POS_FEM_SG_NOM_0 
+	edition	 Pidiu ist ̣durft mihhil 
+	pos	 ADV VAFIN NA ADJN 
+	text	 Pidiu ist ̣durft mihhil 
+	translation	 deshalb, deswegen sein Bedürfnis, Verlangen, Interesse groß(artig), bedeutend, der besondere; stark, gewaltig, mächtig, hoch, tief Abgrund; viel, laut¦sehr, viel 
+	lang	 goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 IRR I_FEM A,O 
+	posLemma	 ADV VA NA ADJ 
+	inflectionClassLemma	 IRR I_FEM A,O 
+
+
+18.	tok	 al l ero  man n o  uuelihemo ,  daz  in  es  sin  muot  kispane ,  
+	lemma	 al man welih daz er er sin muot gispanan 
+	inflection	 MASC_PL_GEN_ST PL_GEN MASC_SG_DAT_ST MASC_SG_ACC_3 NEUT_SG_GEN_3 MASC_SG_NOM_0 SG_NOM SUBJ_PRES_SG_3 
+	edition	 allero manno uuelihemo , daz in es sin muot kispane , 
+	pos	 DI NA DWS $, KOUS PPER PPER DPOS NA VVFIN $, 
+	text	 allero manno uuelihemo , daz in es sin muot kispane , 
+	translation	 all Mensch; Mann wer, welcher; jeder daß er, sie, es er, sie, es sein Seele, Herz antreiben, überreden, bewegen 
+	lang	 goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_O 
+	inflectionClass	 P C,A_MASC P A,O A_MASC,NEUT ST6 
+	posLemma	 DI NA DW $, KO PPER PPER DPOS NA VV $, 
+	inflectionClassLemma	 A,O C,A_MASC A,O A,O A_MASC,NEUT ST6 
+
+
+19.	tok	 daz  er  kotes  uuillun  kerno  tuo  
+	lemma	 daz er got willo gerno tuon 
+	inflection	 MASC_SG_NOM_3 SG_GEN SG_ACC SUBJ_PRES_SG_3 
+	edition	 daz er kotes uuillun kerno tuo 
+	pos	 KOUS PPER NE NA ADV VVFIN 
+	text	 daz er kotes uuillun kerno tuo 
+	translation	 daß er, sie, es Gott Willen gern, mit Freuden; bereitwillig tun, machen 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 A_MASC N_MASC IRR 
+	posLemma	 KO PPER NA NA ADV VV 
+	inflectionClassLemma	 A_MASC N_MASC IRR 
+
+
+20.	tok	 enti  hella  fuir  harto  uuise ,  
+	lemma	 inti hella fiur harto wisan 
+	inflection	 SG_GEN SG_ACC SUBJ_PRES_SG_3 
+	edition	 enti hella fuir harto uuise , 
+	pos	 KON NA NA ADV VVFIN $, 
+	text	 enti hella fuir harto uuise , 
+	translation	 und Hölle, Unterwelt Feuer(sglut) eifrig; streng, unerbittlich (ver)meiden 
+	lang	 goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 O_FEM A_NEUT ST1A 
+	posLemma	 KO NA NA ADV VV $, 
+	inflectionClassLemma	 JO_FEM A_NEUT ST1A 
+
+
+21.	tok	 pehhes  pina : dâr  piutit  der  Satanasz  altist  
+	lemma	 peh pina dar biotan der Satanas alt 
+	inflection	 SG_GEN SG_ACC IND_PRES_SG_3 MASC_SG_NOM SG_NOM SUP_MASC_SG_NOM_0 
+	edition	 pehhes pina : dâr piutit der Satanasz altist 
+	pos	 NA NA $. ADV VVFIN DDA NE ADJN 
+	text	 pehhes pina : dar piutit der Satanasz altist 
+	translation	 Unterwelt, Hölle(nfeuer) Schmerz, Qual, Marter, Pein da, dort verkünd(ig)en; bieten der, die, das Satan al 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_O CF_U_M 
+	inflectionClass	 A_NEUT O_FEM ST2B A_MASC A,O 
+	posLemma	 NA NA $. ADV VV DD NA ADJ 
+	inflectionClassLemma	 A_NEUT O,N_FEM ST2B A_MASC A,O 
+
+
+22.	tok	 heizzan  lauc .  sô  mac  huckan  za  diu ,  
+	lemma	 heiz loug so magan huggen zi diu 
+	inflection	 POS_MASC_SG_ACC_ST SG_ACC IND_PRES_SG_3 
+	edition	 heizzan lauc . sô mac huckan za diu , 
+	pos	 ADJ NA $. ADV VMFIN VVINF ADV $, 
+	text	 heizzan lauc . so mac huckan za diu , 
+	translation	 heiß, glühend, brennend, ätzend Feuer, Flamme so können; müssen, solle gedenken, sich erinnern, denken (an), bedenken, erwägen, vermuten, Hoffnung schöpfen; bedacht sein (auf), achten, hören (auf), beherzigen; erkennen; sich freuen; in Liebe entbrennen. Part.Präs., subst.: Erwägender, Beurteiler deshalb 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 P I_MASC PRPR WK1B 
+	posLemma	 ADJ NA $. ADV VM VV ADV $, 
+	inflectionClassLemma	 A,O I_MASC PRPR WK1B 
+
+
+23.	tok	 sorgen  drâto ,  der  sih  suntigen  uueiz .  
+	lemma	 sorgen drato der sih suntig wizzan 
+	inflection	 MASC_SG_NOM SG_ACC POS_MASC_SG_ACC_ST IND_PRES_SG_3 
+	edition	 sorgen drâto , der sih suntigen uueiz . 
+	pos	 VVINF ADV $, DDSREL PRF ADJD VVFIN $. 
+	text	 sorgen drato , der sih suntigen uueiz . 
+	translation	 in Sorge sein (wegen), besorgt sein sehr, überaus, äußerst, allzu; völlig der, die, das sich sündig, sündhaft; schuldig wissen 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_S 
+	inflectionClass	 WK3B P PRPR 
+	posLemma	 VV ADV $, DD PRF ADJ VV $. 
+	inflectionClassLemma	 WK3B A,O PRPR 
+
+
+24.	tok	 Uue  demo  in  vinstri  scal  sino  virinâ  stuen ,  
+	lemma	 we der in finstari sculan sin firina stuen 
+	inflection	 MASC_SG_DAT SG_DAT IND_PRES_SG_3 FEM_PL_ACC_ST PL_ACC 
+	edition	 Uue demo in vinstri scal sino virinâ stuen , 
+	pos	 ITJ DDS APPR NA VMFIN DPOS NA VVINF $, 
+	text	 Uue demo in vinstri scal sino virina stuen , 
+	translation	 wehe der, die, das in Finsternis, Dunkelheit sollen, werden sein Sünde, Missetat, Verbrechen erleiden, büßen 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CE CF_U_M 
+	inflectionClass	 IN_FEM PRPR P O_FEM WK3 
+	posLemma	 ITJ DD AP NA VM DPOS NA VV $, 
+	inflectionClassLemma	 IN_FEM PRPR A,O O_FEM WK3 
+
+
+25.	tok	 prinnan  in  p e hhe : daz  ist  rehto  paluuic  dink ,  
+	lemma	 brinnan in peh der sin rehto balawig ding 
+	inflection	 SG_DAT NEUT_SG_NOM IND_PRES_SG_3 POS_NEUT_SG_NOM_0 SG_NOM 
+	edition	 prinnan in pehhe : daz ist rehto paluuic dink , 
+	pos	 VVINF APPR NA $. DDS VAFIN ADV ADJ NA $, 
+	text	 prinnan in pehhe : daz ist rehto paluuic dink , 
+	translation	 (ver)brennen, lodern in Unterwelt, Hölle(nfeuer) der, die, das sein bestimmt, gewiß böse, arglistig, haßerfüllt; verderblich Ding, Sache, Angelegenheit 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 ST3A A_NEUT IRR A,O A_NEUT 
+	posLemma	 VV AP NA $. DD VA ADV ADJ NA $, 
+	inflectionClassLemma	 ST3A A_NEUT IRR A,O A_NEUT 
+
+
+26.	tok	 daz  der  man  haret  ze  gote  enti  imo  hilfa  ni  quimit .  
+	lemma	 daz der man haren zi got inti er helfa ni queman 
+	inflection	 MASC_SG_NOM SG_NOM IND_PRES_SG_3 SG_DAT MASC_SG_DAT_3 SG_NOM IND_PRES_SG_3 
+	edition	 daz der man haret ze gote enti imo hilfa ni quimit . 
+	pos	 KOUS DDA NA VVFIN APPR NE KON PPER NA PTKNEG VVFIN $. 
+	text	 daz der man haret ze gote enti imo hilfa ni quimit . 
+	translation	 daß der, die, das Mensch; Mann schreien, (laut) rufen zu Gott und er, sie, es Hilfe, Beistand, Unterstützung, Schutz nicht kommen 
+	lang	 goh goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_I_S 
+	inflectionClass	 C,A_MASC WK3 A_MASC O_FEM ST4 
+	posLemma	 KO DD NA VV AP NA KO PPER NA PTK VV $. 
+	inflectionClassLemma	 C,A_MASC WK3 A_MASC O_FEM ST4 
+
+
+27.	tok	 uuânit  sih  kinâda  diu  uuena g a  sela :  
+	lemma	 wanen sih ginada der wenag sela 
+	inflection	 IND_PRES_SG_3 SG_ACC_3 SG_GEN FEM_SG_NOM POS_FEM_SG_NOM_WK SG_NOM 
+	edition	 uuânit sih kinâda diu uuenaga sela : 
+	pos	 VVFIN PRF NA DDA ADJ NA $. 
+	text	 uuanit sih kinada diu uuenaga sela : 
+	translation	 meinen, wähnen, vermuten, erwarten, befürchten, sich vorstellen sich Gnade, Gabe der, die, das beklagenswert, erbarmungswürdig, unglücklich, elend, arm Seele 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 WK1A O_FEM N O_FEM 
+	posLemma	 VV PRF NA DD ADJ NA $. 
+	inflectionClassLemma	 WK1A O_FEM A,O O_FEM 
+
+
+28.	tok	 ni  ist  in  kihuctin  himiliskin  gote ,  
+	lemma	 ni sin in gihugti himilisc got 
+	inflection	 IND_PRES_SG_3 PL_DAT POS_MASC_SG_DAT_WK SG_DAT 
+	edition	 ni ist in kihuctin himiliskin gote , 
+	pos	 PTKNEG VAFIN APPR NA ADJ NA $, 
+	text	 ni ist in kihuctin himiliskin gote , 
+	translation	 nicht sein in Gedächtnis, Gedenken, An-, Erinnerung des Himmels, himmlisch, göttlich Gott 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 IRR IN_FEM N A_MASC 
+	posLemma	 PTK VA AP NA ADJ NA $, 
+	inflectionClassLemma	 IRR IN_FEM A,O A_MASC 
+
+
+29.	tok	 uuanta  hiar  in  uuerolti  after  ni uuerkôta  .  
+	lemma	 wanta hier in weralt after ni werkon 
+	inflection	 SG_DAT IND_PAST_SG_3 
+	edition	 uuanta hiar in uuerolti after niuuerkôta . 
+	pos	 KOUS ADV APPR NA ADV PTKNEG VVFIN $. 
+	text	 uuanta hiar in uuerolti after ni uuerkota . 
+	translation	 weil hier in Welt (da)nach, später nicht wirken, tun, handeln 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Caus 
+	inflectionClass	 I_FEM WK2 
+	posLemma	 KO ADV AP NA ADV PTK VV $. 
+	inflectionClassLemma	 I_FEM WK2 
+
+
+30.	tok	 Sô  denne  der  mahtigo  khuninc  daz  m a hal  kipannit ,  
+	lemma	 so danne der mahtig kuning der mahal gibannan 
+	inflection	 MASC_SG_NOM POS_MASC_SG_NOM_WK SG_NOM NEUT_SG_ACC SG_ACC IND_PRES_SG_3 
+	edition	 Sô denne der mahtigo khuninc daz mahal kipannit , 
+	pos	 KOUS ADV DDA ADJ NA DDA NA VVFIN $, 
+	text	 So denne der mahtigo khuninc daz mahal kipannit , 
+	translation	 wenn dann der, die, das mächtig, stark, gewaltig König der, die, das Gericht(sstätte), (Gerichts)versammlung, Rats festsetzen, vor Gericht fordern 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp 
+	inflectionClass	 N A_MASC A_NEUT RED1 
+	posLemma	 KO ADV DD ADJ NA DD NA VV $, 
+	inflectionClassLemma	 A,O A_MASC A_NEUT RED1 
+
+
+31.	tok	 dara  scal  queman  chunno  kilihaz :  
+	lemma	 dara sculan queman kunni gilih 
+	inflection	 IND_PRES_SG_3 PL_GEN POS_NEUT_SG_NOM_ST 
+	edition	 dara scal queman chunno kilihaz : 
+	pos	 ADV VMFIN VVINF NA DIS $. 
+	text	 dara scal queman chunno kilihaz : 
+	translation	 dahin, (dort)hin, danach sollen; werden kommen Geschlecht, Stamm ähnlich, gleich 
+	lang	 goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 PRPR ST4 A_NEUT P 
+	posLemma	 ADV VM VV NA DI $. 
+	inflectionClassLemma	 PRPR ST4 JA_NEUT A,O 
+
+
+32.	tok	 denne  ni  kitar  parno  nohhein  den  pan  furisizzan ,  
+	lemma	 danne ni giturran barn nihein der ban furisizzen 
+	inflection	 IND_PRES_SG_3 PL_GEN NEUT_SG_NOM_0 MASC_SG_ACC SG_ACC 
+	edition	 denne ni kitar parno nohhein den pan furisizzan , 
+	pos	 ADV PTKNEG VVFIN NA DINEGS DDA NA VVINF $, 
+	text	 denne ni kitar parno nohhein den pan furisizzan , 
+	translation	 dann nicht wagen, sich herausnehmen Kind; Mensch kein, niemand der, die, das Anordnung, (Auf)gebot; Bann versäumen 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CI_U_O 
+	inflectionClass	 PRPR A_NEUT A,O A_MASC ST5 
+	posLemma	 ADV PTK VV NA DI DD NA VV $, 
+	inflectionClassLemma	 PRPR A_NEUT A,O A_MASC ST5 
+
+
+33.	tok	 ni  al l ero  manno  u uelih  ze  demo  mahale  sculi .  
+	lemma	 ni al man welih zi der mahal sculan 
+	inflection	 MASC_PL_GEN_ST PL_GEN MASC_SG_NOM_0 MASC_SG_DAT SG_DAT SUBJ_PRES_SG_3 
+	edition	 ni allero manno uuelih ze demo mahale sculi . 
+	pos	 PTKNEG DI NA DIS APPR DDA NA VMFUB $. 
+	text	 ni allero manno uuelih ze demo mahale sculi . 
+	translation	 nicht all, jeder Mensch; Mann wer, welcher; (irgend)ein; jeder zu der, die, das Gericht(sstätte), (Gerichts)versammlung, Rats- sollen, müssen 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 P C,A_MASC A,O A_NEUT PRPR 
+	posLemma	 PTK DI NA DI AP DD NA VM $. 
+	inflectionClassLemma	 A,O C,A_MASC A,O A_NEUT PRPR 
+
+
+34.	tok	 Dâr  scal  er  v ora  demo  ri h h e  az  rahhu  stantan ,  
+	lemma	 dar sculan er fora der rihhi az rahha stantan 
+	inflection	 IND_PRES_SG_3 MASC_SG_NOM_3 MASC_SG_DAT SG_DAT SG_DAT 
+	edition	 Dâr scal er vora demo rihhe az rahhu stantan , 
+	pos	 ADV VMFIN PPER APPR DDA NA APPR NA VVINF $, 
+	text	 Dar scal er vora demo rihhe az rahhu stantan , 
+	translation	 da, dort sollen, müssen er, sie, es vor der, die, das Reich zu, bei, an, in Rechenschaft, Grund stehen 
+	lang	 goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 PRPR A_NEUT A_FEM ST6 
+	posLemma	 ADV VM PPER AP DD NA AP NA VV $, 
+	inflectionClassLemma	 PRPR JA_NEUT A_FEM ST6 
+
+
+35.	tok	 pi  daz  er  in  uuerolti  e o  ki u uerkôt  hapeta .  
+	lemma	 bi daz er in weralt io werkon haben 
+	inflection	 MASC_SG_NOM_3 SG_DAT IND_PAST_SG_3 
+	edition	 pi daz er in uuerolti eo kiuuerkôt hapeta . 
+	pos	 PWAVREL PPER APPR NA ADV VVPP VAFIN $. 
+	text	 pi daz er in uuerolti eo kiuuerkot hapeta . 
+	translation	 weswegen er, sie, es in Welt je(mals) (be)wirken, tun, handeln haben 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 I_FEM WK2 WK3 
+	posLemma	 PW PPER AP NA ADV VV VA $. 
+	inflectionClassLemma	 I_FEM WK2 WK3 
+
+
+36.	tok	 Daz  hôrt ih  rahhôn  dia  uueroltrehtuuison ,  
+	lemma	 der horen ih rahhon der weraltrehtwiso 
+	inflection	 NEUT_SG_ACC IND_PAST_SG_1 SG_NOM_1 MASC_PL_ACC PL_ACC 
+	edition	 Daz hôrtih rahhôn dia uueroltrehtuuison , 
+	pos	 DDS VVFIN PPER VVINF DDA NA $, 
+	text	 Daz hort ih rahhon dia uueroltrehtuuison , 
+	translation	 der, die, das hören ich sagen der, die, das Kundiger des Rechts der Welt 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 WK1A WK2 N_MASC 
+	posLemma	 DD VV PPER VV DD NA $, 
+	inflectionClassLemma	 WK1A WK2 N_MASC 
+
+
+37.	tok	 daz  sculi  der  antichristo  mit  Eliase  pâgan .  
+	lemma	 daz sculan der antikristo mit Elias bagan 
+	inflection	 SUBJ_PRES_SG_3 MASC_SG_NOM SG_NOM MASC_SG_DAT 
+	edition	 daz sculi der antichristo mit Eliase pâgan . 
+	pos	 KOUS VMFIN DDA NA APPR NE VVINF $. 
+	text	 daz sculi der antichristo mit Eliase pagan . 
+	translation	 daß sollen; werden der, die, das Antichrist mit Elias (mit Worten) streiten, kämpfen 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 PRPR N_MASC A_MASC RED1 
+	posLemma	 KO VM DD NA AP NE VV $. 
+	inflectionClassLemma	 PRPR N_MASC A_MASC RED1 
+
+
+38.	tok	 der  uuarch  ist  kiuuâfanit ,  denne  uu i rdit  u ntar  in  uuic  arhapan .  
+	lemma	 der warg sin wafanen danne werdan untar er wig irheffen 
+	inflection	 MASC_SG_NOM SG_NOM IND_PRES_SG_3 IND_PRES_SG_3 MASC_PL_DAT_3 SG_NOM 
+	edition	 der uuarch ist kiuuâfanit , denne uuirdit untar in uuic arhapan . 
+	pos	 DDA NA VAFIN VVPP $, ADV VAFIN APPR PPER NA VVPP $. 
+	text	 der uuarch ist kiuuafanit , denne uuirdit untar in uuic arhapan . 
+	translation	 der, die, das Feind, Übeltäter, der Böse, Teufel sein (be)waffnen, wappnen dann werden unter, zwischen er, sie, es Kampf, Streit, Krieg, Gefecht (er)heben, anheben, beginnen 
+	lang	 goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 A_MASC IRR WK1A ST3B A_MASC ST6 
+	posLemma	 DD NA VA VV $, ADV VA AP PPER NA VV $. 
+	inflectionClassLemma	 A_MASC IRR WK1A ST3B A_MASC ST6 
+
+
+39.	tok	 khenfun  sint  sô  kreftic  diu  kôsa  ist  sô  mihhil .  
+	lemma	 kempfo sin so kreftig der kosa sin so mihhil 
+	inflection	 PL_NOM IND_PRES_PL_3 POS FEM_SG_NOM SG_NOM IND_PRES_SG_3 POS 
+	edition	 khenfun sint sô kreftic diu kôsa ist sô mihhil . 
+	pos	 NA VAFIN ADV ADJD DDA NA VAFIN ADV ADJD $. 
+	text	 khenfun sint so kreftic diu kosa ist so mihhil . 
+	translation	 Kämpfer, Wett- sein so kräftig, stark der, die, das Streitsache sein so groß, bedeutend; gewaltig, mächtig 
+	lang	 goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 N_MASC IRR A,O O_FEM IRR A,O 
+	posLemma	 NA VA ADV ADJ DD NA VA ADV ADJ $. 
+	inflectionClassLemma	 N_MASC IRR A,O O_FEM IRR A,O 
+
+
+40.	tok	 E lias  stritit  pi  den  e u uigon  lip ,  
+	lemma	 Elias stritan bi der ewig lib 
+	inflection	 SG_NOM IND_PRES_SG_3 MASC_SG_ACC POS_MASC_SG_ACC_WK SG_ACC 
+	edition	 Elias stritit pi den euuigon lip , 
+	pos	 NE VVFIN APPR DDA ADJ NA $, 
+	text	 Elias stritit pi den euuigon lip , 
+	translation	 Elias streiten, kämpfen bei, wegen, um der, die, das ewig Leben(swandel), Lebensweise; Klosterleben; Wandel; Leib 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 A_MASC WK1A N A_MASC 
+	posLemma	 NE VV AP DD ADJ NA $, 
+	inflectionClassLemma	 A_MASC WK1A A,O A_MASC,NEUT 
+
+
+41.	tok	 uuili  den  rehtkernôn  daz  rihhi  kistarkan :  
+	lemma	 wellen der rehtgern der rihhi gistarken 
+	inflection	 IND_PRES_SG_3 MASC_PL_DAT POS_MASC_PL_DAT_WK NEUT_SG_ACC SG_ACC 
+	edition	 uuili den rehtkernôn daz rihhi kistarkan : 
+	pos	 VMFIN DDA ADJS DDA NA VVINF $. 
+	text	 uuili den rehtkernon daz rihhi kistarkan : 
+	translation	 wollen der, die, das rechtschaffen, gerecht der, die, das Reich mächtig, stark werden 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 IRR N JA_NEUT WK3 
+	posLemma	 VM DD ADJ DD NA VV $. 
+	inflectionClassLemma	 IRR A,O JA_NEUT WK3 
+
+
+42.	tok	 pidiu  scal  imo  helfan  der  himiles  kiuualtit .  
+	lemma	 bidiu sculan er helfan der himil giwaltan 
+	inflection	 IND_PRES_SG_3 MASC_SG_DAT_3 MASC_SG_NOM SG_GEN IND_PRES_SG_3 
+	edition	 pidiu scal imo helfan der himiles kiuualtit . 
+	pos	 ADV VMFIN PPER VVINF DDSREL NA VVFIN $. 
+	text	 pidiu scal imo helfan der himiles kiuualtit . 
+	translation	 dabei, dadurch, deshalb, deswegen sollen; werden er, sie, es helfen, zu Hilfe kommen, beistehen der, die, das Himmel Gewalt haben über, herrschen über, regieren 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_S 
+	inflectionClass	 PRPR ST3B A_MASC RED1 
+	posLemma	 ADV VM PPER VV DD NA VV $. 
+	inflectionClassLemma	 PRPR ST3B A_MASC RED1 
+
+
+43.	tok	 der  antichristo  stet  pi  demo  altfiante ,  
+	lemma	 der antikristo stan bi der altfiant 
+	inflection	 MASC_SG_NOM SG_NOM IND_PRES_SG_3 MASC_SG_DAT SG_DAT 
+	edition	 der antichristo stet pi demo altfiante , 
+	pos	 DDA NA VVFIN APPR DDA NA $, 
+	text	 der antichristo stet pi demo altfiante , 
+	translation	 der, die, das Antichrist stehen, sich befinden (nahe) bei der, die, das Erzfeind, Satan 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 N_MASC IRR ND_MASC 
+	posLemma	 DD NA VV AP DD NA $, 
+	inflectionClassLemma	 N_MASC IRR ND_MASC 
+
+
+44.	tok	 stet  pi  demo  Satanase ,  der  inan  varsenkan  s cal : 
+	lemma	 stan bi der Satanas der er firsenken sculan 
+	inflection	 IND_PRES_SG_3 MASC_SG_DAT SG_DAT MASC_SG_NOM MASC_SG_ACC_3 IND_PRES_SG_3 
+	edition	 stet pi demo Satanase , der inan varsenkan scal : 
+	pos	 VVFIN APPR DDA NE $, DDSREL PPER VVINF VMFIN $. 
+	text	 stet pi demo Satanase , der inan varsenkan scal : 
+	translation	 stehen, sich befinden (nahe) be der, die, das Satan der, die, das er, sie, es ins Verderben stürzen sollen; werden 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Rel 
+	inflectionClass	 IRR A_MASC WK1A PRPR 
+	posLemma	 VV AP DD NA $, DD PPER VV VM $. 
+	inflectionClassLemma	 IRR A_MASC WK1A PRPR 
+
+
+45.	tok	 pidiu  scal  er  in  deru  u u i c s t eti  uunt  pivalla n  
+	lemma	 bidiu sculan er in der wigstat wunt bifallan 
+	inflection	 IND_PRES_SG_3 MASC_SG_NOM_3 FEM_SG_DAT SG_DAT POS 
+	edition	 pidiu scal er in deru uuicsteti uunt pivallan 
+	pos	 ADV VMFIN PPER APPR DDA NA ADJD VVINF 
+	text	 pidiu scal er in deru uuicsteti uunt pivallan 
+	translation	 dabei, dadurch, deshalb sollen; werden er, sie, es in, an, bei der, die, das Kampfplatz verwundend zu Fall kommen, (hin)stürzen 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 PRPR I_FEM A,O RED1 
+	posLemma	 ADV VM PPER AP DD NA ADJ VV 
+	inflectionClassLemma	 PRPR I_FEM A,O RED1 
+
+
+46.	tok	 enti  in  d e mo  sinde  sigalôs  uuerdan .  
+	lemma	 inti in der sind sigulos werdan 
+	inflection	 MASC_SG_DAT SG_DAT POS 
+	edition	 enti in demo sinde sigalôs uuerdan . 
+	pos	 KON APPR DDA NA ADJD VAINF $. 
+	text	 enti in demo sinde sigalos uuerdan . 
+	translation	 und in, an, auf, bei der, die, das Weg, Seite; Weise sieglos, besiegt werden 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 A_MASC A,O ST3B 
+	posLemma	 KO AP DD NA ADJ VA $. 
+	inflectionClassLemma	 A_MASC A,O ST3B 
+
+
+47.	tok	 Doh  uuânit  des  v i l o  gotmanno ,  
+	lemma	 doh wanen der filu gotaman 
+	inflection	 IND_PRES_SG_3 NEUT_SG_GEN SG_NOM PL_GEN 
+	edition	 Doh uuânit des vilogotmanno , 
+	pos	 ADV VVFIN DDS NA NA $, 
+	text	 Doh uuanit des vilo gotmanno , 
+	translation	 (je)doch, gleichwohl meinen, wähnen der, die, das viel; Vieles Theologe 
+	lang	 goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 WK1A 0_NEUT C,A_MASC 
+	posLemma	 ADV VV DD NA NA $, 
+	inflectionClassLemma	 WK1A U_NEUT C,A_MASC 
+
+
+48.	tok	 daz  E lias  in  demo  uuige  aruuartit  u u e r d e .  
+	lemma	 daz Elias in der wig irwerten werdan 
+	inflection	 SG_NOM MASC_SG_DAT SG_DAT SUBJ_PRES_SG_3 
+	edition	 daz Elias in demo uuige aruuartit uuerde . 
+	pos	 KOUS NE APPR DDA NA VVPP VAFIN $. 
+	text	 daz Elias in demo uuige aruuartit uuerde . 
+	translation	 daß Elias in, an, bei der, die, das Kampf, Gefecht verletzen, schädigen werden 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 A_MASC A_MASC WK1A ST3B 
+	posLemma	 KO NE AP DD NA VV VA $. 
+	inflectionClassLemma	 A_MASC A_MASC WK1A ST3B 
+
+
+49.	tok	 s ô  ̣ d a z  E liases  pluot  in  erda  kitriufit ,  
+	lemma	 so daz Elias bluot in erda gitriofan 
+	inflection	 SG_GEN SG_NOM SG_ACC IND_PRES_SG_3 
+	edition	 sô ̣daz Eliases pluot in erda kitriufit , 
+	pos	 KOUS NE NA APPR NA VVFIN $, 
+	text	 so daz Eliases pluot in erda kitriufit , 
+	translation	 so daß Elias Blut in, an, auf Erde tropfen, sich ergießen 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Cns 
+	inflectionClass	 A_MASC A_NEUT O_FEM ST2A 
+	posLemma	 KO NE NA AP NA VV $, 
+	inflectionClassLemma	 A_MASC A_NEUT O_FEM ST2A 
+
+
+50.	tok	 s ô  inprinnan t  die  perga ,  poum  ni kistentit  
+	lemma	 so inbrinnan der berg boum ni gistantan 
+	inflection	 IND_PRES_PL_3 MASC_PL_NOM PL_NOM SG_NOM IND_PRES_SG_3 
+	edition	 sô inprinnant die perga , poum nikistentitenihc 
+	pos	 ADV VVFIN DDA NA $, NA PTKNEG VVFIN 
+	text	 so inprinnant die perga , poum ni kistentit 
+	translation	 so entbrennen, in Brand geraten der, die, das Berg Baum nicht (be)stehen, fest-, (stehen)bleiben 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 ST3A A_MASC A_MASC ST6 
+	posLemma	 ADV VV DD NA $, NA PTK VV 
+	inflectionClassLemma	 ST3A A_MASC A_MASC ST6 
+
+
+51.	tok	 e nihc  in  erdu ,  ahâ  artrukne n t ,  
+	lemma	 einig in erda aha irtruckanen 
+	inflection	 POS_MASC_SG_NOM_0 SG_DAT PL_NOM IND_PRES_PL_3 
+	edition	 nikistentitenihc in erdu , ahâ artruknent , 
+	pos	 ADJN APPR NA $, NA VVFIN $, 
+	text	 enihc in erdu , aha artruknent , 
+	translation	 (irgend)ein in, an, auf Erde Wasser, Flut, Fluß austrocknen 
+	lang	 goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 A,O O_FEM O_FEM WK3 
+	posLemma	 ADJ AP NA $, NA VV $, 
+	inflectionClassLemma	 A,O O_FEM O_FEM WK3 
+
+
+52.	tok	 muor  var s uuilhit  sih ,  suilizôt  lougiu  der  himil ,  
+	lemma	 muor firswelgan sih swilezzon loug der himil 
+	inflection	 SG_NOM IND_PRES_SG_3 SG_ACC_3 IND_PRES_SG_3 SG_INS MASC_SG_NOM SG_NOM 
+	edition	 muor varsuuilhit sih , suilizôt lougiu der himil , 
+	pos	 NA VVFIN PRF $, VVFIN NA DDA NA $, 
+	text	 muor varsuuilhit sih , suilizot lougiu der himil , 
+	translation	 Moor, Sumpf hinunterschlucken, ver-, verzehren, verschlingen, vernichten sich glühen, (ver)brennen Feuer, Flamme der, die, das Himmel 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 A_NEUT ST3B WK2 I_MASC A_MASC 
+	posLemma	 NA VV PRF $, VV NA DD NA $, 
+	inflectionClassLemma	 A_NEUT ST3B WK2 I_MASC A_MASC 
+
+
+53.	tok	 mâno  vallit ,  prinnit  mittilagart ,  
+	lemma	 mano fallan brinnan mittilagart 
+	inflection	 SG_NOM IND_PRES_SG_3 IND_PRES_SG_3 SG_NOM 
+	edition	 mâno vallit , prinnit mittilagart , 
+	pos	 NA VVFIN $, VVFIN NA $, 
+	text	 mano vallit , prinnit mittilagart , 
+	translation	 Mond (nieder)fallen, (herab)stürzen (ver)brennen, lodern, (er)glühen, entbrennen, entflammen Erde, Erdkreis, Welt 
+	lang	 goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 N_MASC RED1 ST3A A,I_MASC 
+	posLemma	 NA VV $, VV NA $, 
+	inflectionClassLemma	 N_MASC RED1 ST3A A,I_MASC 
+
+
+54.	tok	 sten  ni kistentit ,  verit  denne  stuatago  in  lant ,  
+	lemma	 stein ni gistantan faran danne stuatago in lant 
+	inflection	 SG_NOM IND_PRES_SG_3 IND_PRES_SG_3 SG_NOM SG_ACC 
+	edition	 sten nikistentit , verit denne stuatago in lant , 
+	pos	 NA PTKNEG VVFIN $, VVFIN ADV NA APPR NA $, 
+	text	 sten ni kistentit , verit denne stuatago in lant , 
+	translation	 Stein(block), Fels(en) nicht (be)stehen, fest-, (stehen)bleiben fahren, gehen, sich begeben, sich aufmachen dann Tag des Gerichts in, an Land 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 A_MASC ST6 ST6 N_MASC A_NEUT 
+	posLemma	 NA PTK VV $, VV ADV NA AP NA $, 
+	inflectionClassLemma	 A_MASC ST6 ST6 N_MASC A_NEUT 
+
+
+55.	tok	 verit  mit  diu  vuiru  v i r i ho  uuisôn :  
+	lemma	 faran mit der fiur firah wison 
+	inflection	 IND_PRES_SG_3 NEUT_SG_INS SG_INS PL_GEN 
+	edition	 verit mit diu vuiru viriho uuisôn : 
+	pos	 VVFIN APPR DDA NA NA VVINF $. 
+	text	 verit mit diu vuiru viriho uuison : 
+	translation	 fahren, gehen, sich begeben, sich aufmachen mit der, die, das Feuer Menschen (auf)suchen, be-, heim 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M CI_U_Adv_Fin 
+	inflectionClass	 ST6 A_NEUT A_MASC WK2 
+	posLemma	 VV AP DD NA NA VV $. 
+	inflectionClassLemma	 ST6 A_NEUT JA_MASC WK2 
+
+
+56.	tok	 Dâr  ni mac  denne  mâk  andremo  helfan  vora  demo  muspille .  
+	lemma	 dar ni magan danne mag ander helfan fora der muspilli 
+	inflection	 IND_PRES_SG_3 SG_NOM MASC_SG_DAT_ST NEUT_SG_DAT SG_DAT 
+	edition	 Dâr nimac dennemâk andremo helfan vora demo muspille . 
+	pos	 ADV PTKNEG VMFIN ADV NA DIS VVINF APPR DDA NA $. 
+	text	 Dar ni mac denne mak andremo helfan vora demo muspille . 
+	translation	 da, dort nicht können, vermögen zu der Zeit, dann Verwandter der andere helfen, zu Hilfe kommen, beistehen vor der, die, das Jüngstes Gericht? 
+	lang	 goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 PRPR A_MASC P ST3B A_NEUT 
+	posLemma	 ADV PTK VM ADV NA DI VV AP DD NA $. 
+	inflectionClassLemma	 PRPR A_MASC A,O ST3B JA_NEUT 
+
+
+57.	tok	 denne  daz  preita  uuasal  allaz  varprinnit ,  
+	lemma	 danne der breit wasal al firbrinnan 
+	inflection	 NEUT_SG_NOM POS_NEUT_SG_NOM_WK SG_NOM NEUT_SG_NOM_ST IND_PRES_SG_3 
+	edition	 denne daz preita uuasal allaz varprinnit , 
+	pos	 KOUS DDA ADJ NA DIN VVFIN $, 
+	text	 denne daz preita uuasal allaz varprinnit , 
+	translation	 wenn der, die, das breit, weit Erde gesamt, all verbrennen, vernichten, sich verzehren 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp 
+	inflectionClass	 N A_NEUT P ST3A 
+	posLemma	 KO DD ADJ NA DI VV $, 
+	inflectionClassLemma	 A,O A_NEUT A,O ST3A 
+
+
+58.	tok	 enti  uuir   enti  luft  iz  allaz  arfurpit ,  
+	lemma	 inti fiur inti luft er al irfurben 
+	inflection	 SG_NOM SG_NOM NEUT_SG_ACC_3 NEUT_SG_ACC_ST IND_PRES_SG_3 
+	edition	 enti uuir enti luft iz allaz arfurpit , 
+	pos	 KON NA KON NA PPER DIN VVFIN $, 
+	text	 enti uuir enti lult iz allaz arfurpit , 
+	translation	 und Feuer und Luft er, sie, es all wegfegen, leer machen, verwüsten 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp 
+	inflectionClass	 A_NEUT I_MASC,FEM P WK1A 
+	posLemma	 KO NA KO NA PPER DI VV $, 
+	inflectionClassLemma	 A_NEUT I_MASC,FEM A,O WK1A 
+
+
+59.	tok	 uu a r  ist  denne  diu  marha ,  dâr  man  dâr  e o  mit  sinen  mâgon  piehc ?  
+	lemma	 war sin danne der marka dar man dar io mit sin mag bagan 
+	inflection	 IND_PRES_SG_3 FEM_SG_NOM SG_NOM MASC_SG_NOM MASC_PL_DAT_ST PL_DAT IND_PAST_SG_3 
+	edition	 uuar ist denne diu marha , dâr man dâr eo mit sinen mâgon piehc ? 
+	pos	 PWAV VAFIN ADV DDA NA $, PWAVREL PI ADV ADV APPR DPOS NA VVFIN $. 
+	text	 uuar ist denne diu marha , dar man dar eo mit sinen magon piehc ? 
+	translation	 wo sein aber; denn der, die, das Grenze, Grenzlinie da, dort; wo Mensch; Mann; man da, dort je(mals), einmal, immer (weiter), stets, für immer mit sein Verwandter streiten; kämpfen 
+	lang	 goh goh goh goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_I_Int CF_I_Rel 
+	inflectionClass	 IRR O_FEM A,C P A_MASC RED1 
+	posLemma	 PW VA ADV DD NA $, ADV NA ADV ADV AP DPOS NA VV $. 
+	inflectionClassLemma	 IRR O_FEM A,C_MASC A,O A_MASC RED1 
+
+
+60.	tok	 Diu  marha  ist  farprunnan ,  d i u  sela  stet  pidungan ,  
+	lemma	 der marka sin firbrinnan der sela stan bidwingan 
+	inflection	 FEM_SG_NOM SG_NOM IND_PRES_SG_3 FEM_SG_NOM SG_NOM IND_PRES_SG_3 POS 
+	edition	 Diu marha ist farprunnan , diu sela stet pidungan , 
+	pos	 DDA NA VAFIN VVPP $, DDA NA VVFIN VVPPD $, 
+	text	 Diu marha ist farprunnan , diu sela stet pidungan , 
+	translation	 der, die, das Grenze, Grenzlinie sein verbrennen, vernichten der, die, das Seele, Herz stehen bedrängen; überwältigen, niederwerfen, unterdrücken, (be)zwingen 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 O_FEM IRR ST3A O_FEM IRR ST3A 
+	posLemma	 DD NA VA VV $, DD NA VV VV $, 
+	inflectionClassLemma	 O_FEM IRR ST3A O_FEM IRR ST3A 
+
+
+61.	tok	 ni uueiz  mit  uuiu  puaze : sô  verit  si  za  uu i ze .  
+	lemma	 ni wizzan mit wer buozen so faran er zi wizi 
+	inflection	 IND_PRES_SG_3 NEUT_SG_INS SUBJ_PRES_SG_3 IND_PRES_SG_3 FEM_SG_NOM_3 SG_DAT 
+	edition	 niuueiz mit uuiu puaze : sô verit si za uuize . 
+	pos	 PTKNEG VVFIN APPR PWSREL VVFIN $. ADV VVFIN PPER APPR NA $. 
+	text	 ni uueiz mit uuiu puaze : so verit si za uuize . 
+	translation	 wissen mit wer, welcher; was, welches sühnen, Buße tun, büßen so fahren, gehen, sich begeben er, sie, es zu Bestrafung, Strafgericht; Hölle 
+	lang	 goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_O CF_U_M 
+	inflectionClass	 PRPR WK1A ST6 A_NEUT 
+	posLemma	 PTK VV AP PW VV $. ADV VV PPER AP NA $. 
+	inflectionClassLemma	 PRPR WK1A ST6 JA_NEUT 
+
+
+62.	tok	 Pidiu  ist  de m o  manne  sô  guot ,  denn er  ze  demo  mahale  quimit ,  
+	lemma	 bidiu sin der man so guot danne er zi der mahal queman 
+	inflection	 IND_PRES_SG_3 MASC_SG_DAT SG_DAT POS MASC_SG_NOM_3 NEUT_SG_DAT SG_DAT IND_PRES_SG_3 
+	edition	 Pidiu ist demo manne sô guot , dennerze demo mahale quimit , 
+	pos	 ADV VAFIN DDA NA ADV ADJD $, KOUS PPER APPR DDA NA VVFIN $, 
+	text	 Pidiu ist demo manne so guot , denn er ze demo mahale quimit , 
+	translation	 dabei, dadurch, deshalb sein der, die, das Mensch; Mann so gut wenn er, sie, es zu der, die, das Gericht(sstätte), (Gerichts)versammlung kommen 
+	lang	 goh goh goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Adv_Temp 
+	inflectionClass	 IRR A_MASC A,O A_NEUT ST4 
+	posLemma	 ADV VA DD NA ADV ADJ $, KO PPER AP DD NA VV $, 
+	inflectionClassLemma	 IRR C,A_MASC A,O A_NEUT ST4 
+
+
+63.	tok	 daz  er  rahôno  u ueliha  re h to  arteile .  
+	lemma	 daz er rahha welih rehto irteilen 
+	inflection	 MASC_SG_NOM_3 PL_GEN FEM_SG_ACC_ST SUBJ_PRES_SG_3 
+	edition	 daz er rahôno uueliha rehto arteile . 
+	pos	 KOUS PPER NA DWS ADV VVFIN $. 
+	text	 daz er rahono uueliha rehto arteile . 
+	translation	 daß; damit er, sie, es Rede wer, welcher; (irgend)ein; jeder recht, in rechter Weise (ver)urteilen, richten; unterscheiden, beurteilen 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Fin 
+	inflectionClass	 O_FEM P WK1A 
+	posLemma	 KO PPER NA DW ADV VV $. 
+	inflectionClassLemma	 O_FEM A,O WK1A 
+
+
+64.	tok	 Den n e  ni darf  er  sorgen ,  den n e  er  ze  deru  suonu  qui m it .  
+	lemma	 danne ni durfan er sorgen danne er zi der suona queman 
+	inflection	 IND_PRES_SG_3 MASC_SG_NOM_3 MASC_SG_NOM_3 FEM_SG_DAT SG_DAT IND_PRES_SG_3 
+	edition	 Dennenidarfer sorgen , denne er ze deru suonu quimit . 
+	pos	 ADV PTKNEG VMFIN PPER VVINF $, KOUS PPER APPR DDA NA VVFIN $. 
+	text	 Denne ni darf er sorgen , denne er ze deru suonu quimit . 
+	translation	 dann; in diesem Fall nicht brauchen, nötig haben; sollen er, sie, es in Sorge sein (wegen), besorgt sein wenn er, sie, es zu der, die, das Urteil, Entscheidung kommen 
+	lang	 goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Adv_Temp 
+	inflectionClass	 PRPR O_FEM ST4 
+	posLemma	 ADV PTK VM PPER VV $, KO PPER AP DD NA VV $. 
+	inflectionClassLemma	 PRPR O_FEM ST4 
+
+
+65.	tok	 ni  u ueiz  der  uuenago  man ,  uuielihan  u u artil  er  habet ,  
+	lemma	 ni wizzan der wenag man wiolih wartil er haben 
+	inflection	 IND_PRES_SG_3 MASC_SG_NOM POS_MASC_SG_NOM_WK SG_NOM MASC_SG_ACC_ST SG_ACC MASC_SG_NOM_3 IND_PRES_SG_3 
+	edition	 ni uueiz der uuenago man , uuielihan uuartil er habet , 
+	pos	 PTKNEG VVFIN DDA ADJ NA $, DW NA PPER VAFIN $, 
+	text	 ni uueiz der uuenago man , uuielihan uuartil er habet , 
+	translation	 nicht wissen der, die, das beklagenswert, erbarmungswürdig, unglücklich, elend, arm; gering, klein Mensch; Mann wie (beschaffen), was für (ein), von welcher Art Aufpasser, Hüter er, sie, es haben 
+	lang	 goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_O 
+	inflectionClass	 PRPR N C,A_MASC P A_MASC WK3 
+	posLemma	 PTK VV DD ADJ NA $, DW NA PPER VA $, 
+	inflectionClassLemma	 PRPR A,O C,A_MASC A,O A_MASC WK3 
+
+
+66.	tok	 denn er  mit  den  miatôn  marrit  d a z  re h ta ; 
+	lemma	 danne er mit der mieta merren der reht 
+	inflection	 MASC_SG_NOM_3 FEM_PL_DAT PL_DAT IND_PRES_SG_3 NEUT_SG_ACC POS_NEUT_SG_ACC_WK 
+	edition	 dennermit den miatôn marrit daz rehta ; 
+	pos	 KOUS PPER APPR DDA NA VVFIN DDA ADJS $. 
+	text	 denn er mit den miaton marrit daz rehta ; 
+	translation	 wenn er, sie, es mit der, die, das Lohn; Bestechung(sgeschenk) stören, vereiteln, verletzen der, die, das Recht, Gerechtigkeit 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp 
+	inflectionClass	 N_FEM WK1A N 
+	posLemma	 KO PPER AP DD NA VV DD ADJ $. 
+	inflectionClassLemma	 N_FEM WK1A A,O 
+
+
+67.	tok	 Daz  der  tiuval  dâr  pi  kita r n i t  s t e n t i t .  
+	lemma	 daz der tiufal dar bi gitarnen stantan 
+	inflection	 MASC_SG_NOM SG_NOM POS IND_PRES_SG_3 
+	edition	 Daz der tiuval dâr pi kitarnit stentit . 
+	pos	 KOUS DDA NA ADV VVPPD VVFIN $. 
+	text	 Daz der tiuval dar pi kitarnit stentit . 
+	translation	 daß der, die, das Teufel daneben, in der Nähe; dabei verbergen stehen; sich befinden 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 A_MASC WK1A ST6 
+	posLemma	 KO DD NA ADV VV VV $. 
+	inflectionClassLemma	 A_MASC,Z_NEUT WK1A ST6 
+
+
+68.	tok	 d er  hapet  in  ruovu  rahôno  u ueliha ,  
+	lemma	 der haben in ruowa rahha welih 
+	inflection	 MASC_SG_NOM IND_PRES_SG_3 SG_DAT PL_GEN NEUT_SG_ACC_WK 
+	edition	 der hapet in ruovu rahôno uueliha , 
+	pos	 DDS VVFIN APPR NA NA DWS $, 
+	text	 der hapet in ruovu rahono uueliha , 
+	translation	 der, die, das haben, halten in Ruhe Rede; Rechenschaft, Grund; Handlung; Angelegenheit wer, welcher; (irgend)ein; jeder 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 WK3 O_FEM O_FEM N 
+	posLemma	 DD VA AP NA NA DW $, 
+	inflectionClassLemma	 WK3 O_FEM O_FEM A,O 
+
+
+69.	tok	 daz  der  man  er  en t i  s i d  upiles  kifrumita ,  
+	lemma	 der der man er inti sid ubil gifrummen 
+	inflection	 NEUT_SG_ACC MASC_SG_NOM SG_NOM POS_NEUT_SG_GEN_ST IND_PAST_SG_3 
+	edition	 daz der man er enti sid upiles kifrumita , 
+	pos	 DDSREL DDA NA ADV KON ADV ADJS VVFIN $, 
+	text	 daz der man er enti sid upiles kifrumita , 
+	translation	 der, die, das der, die, das Mensch; Mann vorher und seitdem, von da an, hernach, später Übel, Böses, Schlechtes, Schlimmes tun, machen 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_I_Rel 
+	inflectionClass	 C,A_MASC P WK1B 
+	posLemma	 DD DD NA ADV KO ADV ADJ VV $, 
+	inflectionClassLemma	 C,A_MASC A,O WK1B 
+
+
+70.	tok	 daz  er  iz  allaz  kisaget ,  denne  er  z e  deru  suonu  quimit : 
+	lemma	 daz er er al gisagen danne er zi der suona queman 
+	inflection	 MASC_SG_NOM_3 NEUT_SG_ACC_3 NEUT_SG_ACC_ST IND_PRES_SG_3 MASC_SG_NOM_3 FEM_SG_DAT SG_DAT IND_PRES_SG_3 
+	edition	 daz er iz allaz kisaget , denne er ze deru suonu quimit : 
+	pos	 KOUS PPER PPER DIN VVFIN $, KOUS PPER APPR DDA NA VVFIN $. 
+	text	 daz er iz allaz kisaget , denne er ze deru suonu quimit : 
+	translation	 daß; damit er, sie, es er, sie, es all sage wenn er, sie, es zu der, die, das Urteil, Entscheidung; Prüfung, Gericht; Bestrafung kommen 
+	lang	 goh goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Fin CF_I_Adv_Temp 
+	inflectionClass	 P WK3 O_FEM ST4 
+	posLemma	 KO PPER PPER DI VV $, KO PPER AP DD NA VV $. 
+	inflectionClassLemma	 A,O WK3 O_FEM ST4 
+
+
+71.	tok	 Ni scolta  sid  manno  nohhein  miatun  intfâ h an .  
+	lemma	 ni sculan sid man nihein mieta intfahan 
+	inflection	 IND_PAST_SG_3 PL_GEN MASC_SG_NOM_0 SG_ACC 
+	edition	 Niscolta sid manno nohhein miatun intfâhan . 
+	pos	 PTKNEG VAFIN ADV NA DISNEG NA VVINF $. 
+	text	 Ni scolta sid manno nohhein miatun intfahan . 
+	translation	 nicht sollen seitdem, von da an, hernach, später Mensch; Mann kein, niemand Lohn; Bestechung(sgeschenk) (entgegen)nehmen; empfangen 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 PRPR C,A_MASC A,O N_FEM RED1 
+	posLemma	 PTK VA ADV NA DI NA VV $. 
+	inflectionClassLemma	 PRPR C,A_MASC A,O N_FEM RED1 
+
+
+72.	tok	 Sô  daz  h i milisca  horn  ki h lutit  u u i rdit ,  
+	lemma	 so der himilisc horn giluten werdan 
+	inflection	 NEUT_SG_ACC POS_NEUT_SG_NOM_WK SG_NOM IND_PRES_SG_3 
+	edition	 Sô daz himilisca horn kihlutit uuirdit , 
+	pos	 KOUS DDA ADJ NA VVPP VAFIN $, 
+	text	 So daz himilisca horn kihlutit uuirdit , 
+	translation	 so, wenn der, die, das des Himmels, himmlisch, göttlich Horn lauten, erklingen werde 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp 
+	inflectionClass	 N A_NEUT WK1A ST3B 
+	posLemma	 KO DD ADJ NA VV VA $, 
+	inflectionClassLemma	 A,O A_NEUT WK1A ST3B 
+
+
+73.	tok	 enti  sih  der           a n a  ̣ d e n  s i nd  arhevit  
+	lemma	 inti sih der ana der sind irheffen 
+	inflection	 SG_ACC_3 MASC_SG_NOM MASC_SG_ACC SG_ACC IND_PRES_SG_3 
+	edition	 enti sih der ana ̣den sind arhevit 
+	pos	 KON PRF DDS APPR DDA NA VVFIN 
+	text	 enti sih der  ana ̣den sind arhevit 
+	translation	 und sich der, die, das auf, in, an der, die, das Weg, Richtun (er)heben, empor- 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Temp 
+	inflectionClass	 A_MASC ST6 
+	posLemma	 KO PRF DD AP DD NA VV 
+	inflectionClassLemma	 A_MASC ST6 
+
+
+74.	tok	 der  dâr  s u a nnan  scal                        ,  
+	lemma	 der dar suonen sculan 
+	inflection	 MASC_SG_NOM IND_PRES_SG_3 
+	edition	 der dâr suannan scal , 
+	pos	 DDSREL ADV VVINF VMFIN $, 
+	text	 der dar suannan scal    , 
+	translation	 der, die, das da, dort richten, beurteilen sollen, müssen 
+	lang	 goh goh goh goh 
+	clause	 CF_I_Rel 
+	inflectionClass	 WK1A PRPR 
+	posLemma	 DD ADV VV VM $, 
+	inflectionClassLemma	 WK1A PRPR 
+
+
+75.	tok	 Denne  hevit  sih  mit  imo  herio  meista ,  
+	lemma	 danne heffen sih mit er heri meisto 
+	inflection	 IND_PRES_SG_3 SG_NOM_3 MASC_SG_DAT_3 PL_GEN SUP_NEUT_SG_NOM_WK 
+	edition	 Denne hevit sih mit imo herio meista , 
+	pos	 ADV VVFIN PRF APPR PPER NA ADJS $, 
+	text	 Denne hevit sih mit imo herio meista , 
+	translation	 dann (er)heben sich mit er, sie, es Menge, (Kriegs)schar, Heer der gößte 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 ST6 JA_NEUT N 
+	posLemma	 ADV VV PRF AP PPER NA ADJ $, 
+	inflectionClassLemma	 ST6 JA_MASC,NEUT N 
+
+
+76.	tok	 daz  ist  allaz  sô  pa l d ,  daz  imo  nioman  kip â gan  ni  mak .  
+	lemma	 der sin al so bald daz er nioman gibagan ni magan 
+	inflection	 NEUT_SG_NOM IND_PRES_SG_3 NEUT_SG_NOM_ST NEUT_SG_DAT_3 MASC_SG_NOM IND_PRES_SG_3 
+	edition	 daz ist allaz sô pald , daz imo nioman kipâgan ni mak . 
+	pos	 DDS VAFIN DIS ADV ADV $, KOUS PPER PINEG VVINF PTKNEG VMFIN $. 
+	text	 daz ist allaz so pald , daz imo nioman kipagan ni mak . 
+	translation	 der, die, das sein ganz, gesamt, all so kühn, mutig daß er, sie, es niemand, keiner widerstreiten, im Streit widerstehen nicht können, vermögen 
+	lang	 goh goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Adv_Cns 
+	inflectionClass	 IRR P C,A RED1 PRPR 
+	posLemma	 DD VA DI ADV ADV $, KO PPER PI VV PTK VM $. 
+	inflectionClassLemma	 IRR A,O C,A RED1 PRPR 
+
+
+77.	tok	 Denne  verit  e r  ̣ z e  ̣ d e r u  mahalsteti ,  deru  dâr  kimarchôt  ist : 
+	lemma	 danne faran er zi der mahalstat der dar markon sin 
+	inflection	 IND_PRES_SG_3 MASC_SG_NOM_3 FEM_SG_DAT SG_DAT FEM_SG_DAT IND_PRES_SG_3 
+	edition	 Denne verit er ̣ze ̣deru mahalsteti , deru dâr kimarchôt ist : 
+	pos	 ADV VVFIN PPER APPR DDA NA $, DDSREL ADV VVPP VAFIN $. 
+	text	 Denne verit er ̣ze ̣deru mahalsteti , deru dar kimarchot ist : 
+	translation	 dann fahren, gehen, sich begeben, sich aufmachen er, sie, es zu der, die, das Gerichtsstätte der, die, das da, dort begrenzen, die Grenze setzen, bestimmen sein 
+	lang	 goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Rel 
+	inflectionClass	 ST6 I_FEM WK2 IRR 
+	posLemma	 ADV VV PPER AP DD NA $, DD ADV VV VA $. 
+	inflectionClassLemma	 ST6 I_FEM WK2 IRR 
+
+
+78.	tok	 dâr  uuirdit  d i u  s u o na ,  dia  man  dar  i o  sageta .  
+	lemma	 dar werdan der suona der man dar io sagen, sagen 
+	inflection	 IND_PRES_SG_3 FEM_SG_NOM SG_NOM FEM_SG_ACC MASC_SG_NOM IND_PAST_SG_3 
+	edition	 dâr uuirdit diu suona , dia man dar io sageta . 
+	pos	 ADV VVFIN DDA NA $, DDSREL PI ADV ADV VVFIN $. 
+	text	 dar uuirdit diu suona , dia man dar io sageta . 
+	translation	 da, dort werden, geschehen, eintreten, sich ereignen; widerfahren, ergehen der, die, das Urteil, Entscheidung der, die, das Mensch; Mann da, dort je(mals), einmal, immer (weiter), stets sagen; verkünd(ig)en 
+	lang	 goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Rel 
+	inflectionClass	 ST3B O_FEM C,A WK3 
+	posLemma	 ADV VA DD NA $, DD NA ADV ADV VV $. 
+	inflectionClassLemma	 ST3B O_FEM C,A_MASC WK1B,WK3 
+
+
+79.	tok	 Denne  v a rant  engila  uper  d i o  marha ,  
+	lemma	 danne faran engil ubar der marka 
+	inflection	 IND_PRES_PL_3 PL_NOM FEM_PL_ACC PL_ACC 
+	edition	 Denne varant engila uper dio marha , 
+	pos	 KON VVFIN NA APPR DDA NA $, 
+	text	 Denne varant engila uper dio marha , 
+	translation	 dann fahren, gehen, sich begeben, sich aufmachen Engel über der, die, das Grenze; Land 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 ST6 A_MASC O_FEM 
+	posLemma	 KO VV NA AP DD NA $, 
+	inflectionClassLemma	 ST6 A_MASC O_FEM 
+
+
+80.	tok	 uuechant  deota ,  uuissant  ze  dinge .  
+	lemma	 wecken diota wisen zi ding 
+	inflection	 IND_PRES_PL_3 PL_ACC IND_PRES_PL_3 SG_DAT 
+	edition	 uuechant deota , uuissant ze dinge . 
+	pos	 VVFIN NA $, VVFIN APPR NA $. 
+	text	 uuechant deota , uuissant ze dinge . 
+	translation	 (er)wecken, auf-, aufrütteln Volk(sstamm), Menschen, Heiden führen; rufen; bringen zu Gericht(stag), Gerichtsverhandlung 
+	lang	 goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 WK1A O_FEM WK1A A_NEUT 
+	posLemma	 VV NA $, VV AP NA $. 
+	inflectionClassLemma	 WK1A O,N_FEM WK1A A_NEUT 
+
+
+81.	tok	 denne  s c al  man n o  gilih  fona  deru  moltu  arsten .  
+	lemma	 danne sculan allero mannogilih fona der molta irstan 
+	inflection	 IND_PRES_SG_3 MASC_SG_NOM_0 FEM_SG_DAT SG_DAT 
+	edition	 denne scal manno gilih fona deru moltu arsten . 
+	pos	 KON VMFIN PI APPR DDA NA VVINF $. 
+	text	 denne scal manno gilih fona deru moltu arsten . 
+	translation	 dann sollen jeder von der, die, das Staub, Geröll, Erde sich erheben, auf(er)stehen, wieder erstehen 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 PRPR A,O O_FEM IRR 
+	posLemma	 KO VM PI AP DD NA VV $. 
+	inflectionClassLemma	 PRPR A,O O,N_FEM IRR 
+
+
+82.	tok	 lôssan  sih  ar  der o  le u u o  vazzôn : scal  imo  a uar  si n  lip  piqueman ,  
+	lemma	 losen sih ur der leo fazza sculan er afar sin lib biqueman 
+	inflection	 SG_ACC_3 MASC_PL_GEN PL_GEN PL_DAT IND_PRES_SG_3 MASC_SG_DAT_3 MASC,NEUT_SG_ACC_0 SG_ACC 
+	edition	 lôssan sih ar dero leuuo vazzôn : scal imo auar sin lip piqueman , 
+	pos	 VVINF PRF APPR DDA NA NA $. VMFIN PPER ADV DPOS NA VVINF $, 
+	text	 lossan sih ar dero leuuo vazzon : scal imo avar sin lip piqueman , 
+	translation	 befreien, erlösen sich aus (… heraus), von (… aus) der, die, das Grabhügel, Grabmal Bürde, Last sollen er, sie, es aber, (je)doch sein Leben; Leib (vor)kommen, heran-, gelangen; begegnen, zuteil werden, gereichen 
+	lang	 goh goh goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 WK1A WA_MASC O_FEM PRPR A,O A_MASC,NEUT ST4 
+	posLemma	 VV PRF AP DD NA NA $. VM PPER ADV DPOS NA VV $, 
+	inflectionClassLemma	 WK1A WA_MASC O_FEM PRPR A,O A_MASC,NEUT ST4 
+
+
+83.	tok	 daz  er  sin  r e h t  allaz  kirahhôn  muozzi ,  
+	lemma	 daz er sin reht al girahhon muozan 
+	inflection	 MASC_SG_NOM_3 NEUT_SG_ACC_0 SG_ACC NEUT_SG_ACC_ST SUBJ_PRES_SG_3 
+	edition	 daz er sin reht allaz kirahhôn muozzi , 
+	pos	 KOUS PPER DPOS NA DIN VVINF VMFIN $, 
+	text	 daz er sin reht allaz kirahhon muozzi , 
+	translation	 daß; damit er, sie, es sein Recht, Gerechtigkeit; Rechtssache, Urteil, Gesetz, Regel, Gebot, Pflicht; Grund; rechter Glaube, Wahrheit; das Gerechte¦(ge)recht, berechtigt, richtig, fehlerfrei, zutreffend, wahr, wirklich, gut; gerade, einfach ganz, gesamt, all erzählen, darlegen in der Lage sein, können 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Fin 
+	inflectionClass	 A,O N_NEUT P WK2 PRPR 
+	posLemma	 KO PPER DPOS NA DI VV VM $, 
+	inflectionClassLemma	 A,O N_NEUT A,O WK2 PRPR 
+
+
+84.	tok	 enti  imo  after  s i nen  tâtin  arte i l i t  u uerde .  
+	lemma	 inti er after sin tat irteilen werdan 
+	inflection	 MASC_SG_DAT_3 FEM_PL_DAT_ST PL_DAT SUBJ_PRES_PL_3 
+	edition	 enti imo after sinen tâtin arteilit uuerde . 
+	pos	 KON PPER APPR DPOS NA VVPP VAFIN $. 
+	text	 enti imo after sinen tatin arteilit uuerde . 
+	translation	 und er, sie, es entsprechend, nach sein Tod (ver)urteilen, richte werden 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Fin 
+	inflectionClass	 P I_FEM WK1A ST3B 
+	posLemma	 KO PPER AP DPOS NA VV VA $. 
+	inflectionClassLemma	 A,O I_FEM WK1A ST3B 
+
+
+85.	tok	 Denne  der  gisizzit ,  der  dâr  suonnan  scal  
+	lemma	 danne der gisizzen der dar suonen sculan 
+	inflection	 MASC_SG_NOM IND_PRES_SG_3 MASC_SG_NOM IND_PRES_SG_3 
+	edition	 Denne der gisizzit , der dâr suonnan scal 
+	pos	 ADV DDS VVFIN $, DDSREL ADV VVINF VMFIN 
+	text	 Denne der gisizzit , der dar suonnan scal 
+	translation	 dann der, die, das sitzen, sich (auf)setzen, sich niederlassen, bleiben der, die, das da, dort richten, beurteilen, entscheiden; sühnen für sollen 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Rel 
+	inflectionClass	 ST5 WK1A PRPR 
+	posLemma	 ADV DD VV $, DD ADV VV VM 
+	inflectionClassLemma	 ST5 WK1A PRPR 
+
+
+86.	tok	 e n t i  arteillan  scal  tôten  enti  quekkhen ,  
+	lemma	 inti irteilen sculan tot inti quek 
+	inflection	 IND_PRES_SG_3 POS_MASC_PL_DAT_ST POS_MASC_PL_DAT_ST 
+	edition	 enti arteillan scal tôten enti quekkhen , 
+	pos	 KON VVINF VMFIN ADJS KON ADJS $, 
+	text	 enti arteillan scal toten enti quekkhen , 
+	translation	 und (ver)urteilen, richten sollen tot und lebend(ig) 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_Rel 
+	inflectionClass	 WK1A PRPR P P 
+	posLemma	 KO VV VM ADJ KO ADJ $, 
+	inflectionClassLemma	 WK1A PRPR A,O A,O 
+
+
+87.	tok	 denne  stet  dâr  umpi  engilo  menigi ,  
+	lemma	 danne stan dar umbi engil managi 
+	inflection	 IND_PRES_SG_3 PL_GEN SG_NOM 
+	edition	 denne stet dâr umpi engilo menigi , 
+	pos	 ADV VVFIN ADV NA NA $, 
+	text	 denne stet dar umpi engilo menigi , 
+	translation	 dann stehen; (stehen) bleiben da herum, ringsherum Engel Menge, Schar 
+	lang	 goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 IRR A_MASC IN_FEM 
+	posLemma	 ADV VV ADV NA NA $, 
+	inflectionClassLemma	 IRR A_MASC IN_FEM 
+
+
+88.	tok	 guotero  gomôno : gart  ist  sô  mih h i l :  
+	lemma	 guot gomo gart sin so mihhil 
+	inflection	 POS_MASC_PL_GEN_ST PL_GEN SG_NOM IND_PRES_SG_3 POS 
+	edition	 guotero gomôno : gart ist sô mihhil : 
+	pos	 ADJ NA $. NA VAFIN ADV ADJD $. 
+	text	 guotero gomono : gart ist so mihhil : 
+	translation	 gut Mann Reigen, Chor(tanz); Schar sein so groß 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M CF_U_M 
+	inflectionClass	 P N_MASC A,I_MASC IRR A,O 
+	posLemma	 ADJ NA $. NA VA ADV ADJ $. 
+	inflectionClassLemma	 A,O N_MASC A,I_MASC IRR A,O 
+
+
+89.	tok	 dara  qu i mit  ze  deru  rihtungu  sô  vilo  dia  dâr  a r  ̣ r e s t i  a r stent ,  
+	lemma	 dara queman zi der rihtunga so filu der dar ur resti irstan 
+	inflection	 IND_PRES_SG_3 FEM_SG_DAT SG_DAT SG_ACC MASC_PL_NOM SG_ACC IND_PRES_PL_3 
+	edition	 dara quimit ze deru rihtungu sô vilo dia dâr ar ̣resti arstent , 
+	pos	 ADV VVFIN APPR DDA NA ADV NA DDSREL ADV APPR NA VVFIN $, 
+	text	 dara quimit ze deru rihtungu so vilo dia dar ar ̣resti arstent , 
+	translation	 dahin, (dort)hin, danach, dort; daraufhin kommen zu der, die, das Lenkung; Gericht so viel, Vieles, Vielheit der, die, das da, dort aus (… heraus) Ruhe, Friede sich erheben, auf(er)stehen, wieder erstehen 
+	lang	 goh goh goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Rel 
+	inflectionClass	 ST4 O_FEM 0_NEUT IN_FEM IRR 
+	posLemma	 ADV VV AP DD NA ADV NA DD ADV AP NA VV $, 
+	inflectionClassLemma	 ST4 O_FEM U_NEUT IN_FEM IRR 
+
+
+90.	tok	 sô  dâr  manno  nohhein  u uiht  pimidan  ni mak  ,  
+	lemma	 so dar man nihein wiht bimidan ni magan 
+	inflection	 PL_GEN MASC_SG_NOM_0 NEUT_SG_NOM IND_PRES_SG_3 
+	edition	 sô dâr manno nohhein uuiht pimidan nimak , 
+	pos	 ADV ADV NA DISNEG PI VVINF PTKNEG VMFIN $, 
+	text	 so dar manno nohhein uuiht pimidan ni mak , 
+	translation	 so da, dort Mensch; Mann kein, niemand (irgend) etwas (ver)meiden; ausweichen, entgehen nicht können, vermögen 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 C,A_MASC A,O A ST1A PRPR 
+	posLemma	 ADV ADV NA DI PI VV PTK VM $, 
+	inflectionClassLemma	 C,A_MASC A,O A ST1A PRPR 
+
+
+91.	tok	 d â r  s c al  denne  hant  sprehhan ,  houpit  sagen ,  
+	lemma	 dar sculan danne hant sprehhan houbit sagen 
+	inflection	 IND_PRES_SG_3 SG_NOM SG_NOM 
+	edition	 dâr scal denne hant sprehhan , houpit sagen , 
+	pos	 ADV VMFIN ADV NA VVINF $, NA VVINF $, 
+	text	 dar scal denne hant sprehhan , houpit sagen , 
+	translation	 da, dort sollen dann Hand, Arm sprechen, reden, (aus)sagen Haupt, Kopf sagen 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 PRPR I,U_FEM ST4 A_NEUT WK1B 
+	posLemma	 ADV VM ADV NA VV $, NA VV $, 
+	inflectionClassLemma	 PRPR I,U_FEM ST4 A_NEUT WK1B 
+
+
+92.	tok	 allero  l i do  u uelihc  unzi  in  den  luzigun  vi n ger ,  
+	lemma	 al lid welih unzi in der luzzig fingar 
+	inflection	 MASC_PL_GEN_ST PL_GEN MASC_SG_NOM_0 MASC_SG_ACC POS_MASC_SG_ACC_WK SG_ACC 
+	edition	 allero lido uuelihc unzi in den luzigun vinger , 
+	pos	 DI NA DWS APPR APPR DDA ADJ NA $, 
+	text	 allero lido uuelihc unzi in den luzigun vinger , 
+	translation	 all Glied, Körperteil wer, welcher; (irgend)ein; jder bis zu in der, die, das klein Finger 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 P A_MASC A,O N A_MASC 
+	posLemma	 DI NA DW AP AP DD ADJ NA $, 
+	inflectionClassLemma	 A,O I_FEM,MASC,Z_NEUT A,O A,O A_MASC 
+
+
+93.	tok	 u uaz  er  untar  desen  mannun        mordes  kifrumita .  
+	lemma	 wer er untar dese man mord gifrummen 
+	inflection	 NEUT_SG_ACC MASC_SG_NOM_3 MASC_PL_DAT PL_DAT SG_GEN IND_PAST_SG_3 
+	edition	 uuaz er untar desen mannun mordes kifrumita . 
+	pos	 PW PPER APPR DD NA NA VVFIN $. 
+	text	 uuaz er untar desen mannun mordes kifrumita . 
+	translation	 wer, welcher; was, welches er, sie, es unter dieser, der; diese, die; dieses, das Mensch; Mann Mord tun, machen, Unrecht begehen 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 C,A_MASC A_MASC,NEUT WK1B 
+	posLemma	 PW PPER AP DD NA NA VV $. 
+	inflectionClassLemma	 C,A_MASC A_MASC,NEUT WK1B 
+
+
+94.	tok	 Dâr  ni ist  e o  sô  list i c  man  der  dâr  i ouuiht  arliugan  megi ,  
+	lemma	 dar ni sin io so listig man der dar iowiht irliogan magan 
+	inflection	 IND_PRES_SG_3 POS_MASC_SG_NOM_0 SG_NOM MASC_SG_NOM NEUT_SG_ACC SUBJ_PRES_SG_3 
+	edition	 Dâr niist eo sô listic man der dâr iouuiht arliugan megi , 
+	pos	 ADV PTKNEG VAFIN ADV ADV ADJ NA DDSREL ADV PI VVINF VMFIN $, 
+	text	 Dar ni ist eo so listic man der dar iouuiht arliugan megi , 
+	translation	 da, dort nicht sein je(mals), einmal, immer (weiter), stets so klug, schlau Mensch; Man der, die, das da, dort (irgend) etwas erlügen, lügnerisch versprechen, (vor)täuschen können, vermögen 
+	lang	 goh goh goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Rel 
+	inflectionClass	 IRR A,O C,A_MASC A ST2A PRPR 
+	posLemma	 ADV PTK VA ADV ADV ADJ NA DD ADV PI VV VM $, 
+	inflectionClassLemma	 IRR A,O C,A_MASC A ST2A PRPR 
+
+
+95.	tok	 daz  er  kitarnan  megi  tâto  dehheina ,  
+	lemma	 daz er gitarnen magan tat dehein 
+	inflection	 MASC_SG_NOM_3 SUBJ_PRES_SG_3 PL_GEN FEM_SG_ACC_ST 
+	edition	 daz er kitarnan megi tâto dehheina , 
+	pos	 KOUS PPER VVINF VMFIN NA DIS $, 
+	text	 daz er kitarnan megi tato dehheina , 
+	translation	 daß er, sie, es verbergen können, vermögen Tat, Handlung (irgend)ein 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 WK1A PRPR I_FEM P 
+	posLemma	 KO PPER VV VM NA DI $, 
+	inflectionClassLemma	 WK1A PRPR I_FEM A,O 
+
+
+96.	tok	 n iz  al  fora  demo  khunin g e  k i c h u n d i t  uuerde ,  
+	lemma	 ni er al fora der kuning gikunden werdan 
+	inflection	 NEUT_SG_ACC_3 NEUT_SG_ACC_0 MASC_SG_DAT SG_DAT SUBJ_PRES_SG_3 
+	edition	 niz al fora demo khuninge kichundit uuerde , 
+	pos	 KOUS PPER DIS APPR DDA NA VVPP VAFIN $, 
+	text	 n iz al fora demo khuninge kichundit uuerde , 
+	translation	 hier: daß nicht er, sie, es all vor der, die, das König kundtun, verkünden werden 
+	lang	 goh goh goh goh goh goh goh goh 
+	clause	 CF_I_O 
+	inflectionClass	 A,O A_MASC WK1A ST3B 
+	posLemma	 KO PPER DI AP DD NA VV VA $, 
+	inflectionClassLemma	 A,O A_MASC WK1A ST3B 
+
+
+97.	tok	 uzzan  er  iz  mit  alamusanu  furi u iegi 
+	lemma	 uzan er er mit alamuosan furimagan 
+	inflection	 MASC_SG_NOM_3 NEUT_SG_ACC_3 SG_INS SUBJ_PRES_SG_3 
+	edition	 uzzan er iz mit alamusanu furiuiegienti 
+	pos	 KOUS PPER PPER APPR NA VVFIN 
+	text	 uzzan er iz mit alamusanu furiuiegi 
+	translation	 ohne daß, wenn nicht er, sie, es er, sie, es mit Almosen vermögen 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Mod 
+	inflectionClass	 A_NEUT PRPR 
+	posLemma	 KO PPER PPER AP NA VV 
+	inflectionClassLemma	 A_NEUT PRPR 
+
+
+98.	tok	   enti  mit  fastun  dio  v i rinâ  kipuazti .  
+	lemma	 furimagan inti mit fasta der firina gibuozen 
+	inflection	 SUBJ_PRES_SG_3 PL_DAT FEM_PL_ACC PL_ACC SUBJ_PAST_SG_3 
+	edition	 furiuiegienti mit fastun dio virinâ kipuazti . 
+	pos	 VVFIN KON APPR NA DDA NA VVFIN $. 
+	text	 furiuiegi enti mit fastun dio virina kipuazti . 
+	translation	 vermögen und mit Fasten der, die, das Sünde, Missetat, Verbrechen wiedergutmachen, sühnen, Buße tun, büße 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_Adv_Mod 
+	inflectionClass	 PRPR O_FEM O_FEM WK1A 
+	posLemma	 VV KO AP NA DD NA VV $. 
+	inflectionClassLemma	 PRPR O,N_FEM O_FEM WK1A 
+
+
+99.	tok	 Denne  d e r  ̣ p a l d e t  der  gipuazzit  h apet ,    
+	lemma	 danne der balden der buozen haben 
+	inflection	 MASC_SG_NOM IND_PRES_SG_3 MASC_SG_NOM IND_PRES_SG_3 
+	edition	 Denne der ̣paldet der gipuazzit hapet , 
+	pos	 ADV DDS VVFIN DDSREL VVPP VAFIN $ 
+	text	 Denne der ̣paldet der gipuazzit hapet ,  
+	translation	 dann der, die, das Mut fassen, hoffen auf der, die, das sühnen, Buße tun, büßen haben 
+	lang	 goh goh goh goh goh goh 
+	clause	 CF_U_M CF_I_Rel 
+	inflectionClass	 WK3 WK1A WK3 
+	posLemma	 ADV DD VV DD VV VA $ 
+	inflectionClassLemma	 WK3 WK1A WK3 
+
+
+100.	tok	                                 .  
+	edition	 , . 
+	pos	 $. 
+	text	      . 
+	posLemma	 $. 
+
+
+101.	tok	 u uirdit  denne  furi  kitragan  daz  frôno  chr u c i ,  
+	lemma	 werdan danne furi gitragan der frono kruzi 
+	inflection	 IND_PRES_SG_3 NEUT_SG_NOM POS_NEUT_SG_NOM_0 SG_NOM 
+	edition	 uuirdit denne furi kitragan daz frôno chruci , 
+	pos	 VAFIN ADV ADV VVPP DDA ADJ NA $, 
+	text	 uuirdit denne furi kitragan daz frono chruci , 
+	translation	 werden dann nach vorn, vorwärts, voran tragen der, die, das dem Herrn gehörig, des Herrn Kreuz 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_U_M 
+	inflectionClass	 ST3B ST6 0 JA_NEUT 
+	posLemma	 VA ADV ADV VV DD ADJ NA $, 
+	inflectionClassLemma	 ST3B ST6 0 JA_NEUT 
+
+
+102.	tok	 dâr  d e r  heligo  Christ  ana  arhangan  uuard .  
+	lemma	 dar der heilag krist ana irhahan werdan 
+	inflection	 MASC_SG_NOM POS_MASC_SG_NOM_WK SG_NOM IND_PAST_SG_3 
+	edition	 dâr der heligo Christ ana arhangan uuard . 
+	pos	 PWAVREL DDA ADJ NE APPAV VVPP VAFIN $. 
+	text	 dar der heligo Christ ana arhangan uuard . 
+	translation	 da, dort; wo der, die, das heilig Christus auf, in, an (auf)hängen, er-, kreuzigen werden 
+	lang	 goh goh goh goh goh goh goh 
+	clause	 CF_I_Rel 
+	inflectionClass	 N A_MASC RED1 ST5 
+	posLemma	 ADV DD ADJ NA AP VV VA $. 
+	inflectionClassLemma	 A,O A_MASC RED1 ST5 
+
+
+103.	tok	 d e n n e  ̣ a u g i t  ̣ e r  dio  mâsun ,  dio  er  in  deru  m e n n i s k i  . . . ,  
+	lemma	 danne ougen er der masa der er in der mennisci 
+	inflection	 IND_PRES_SG_3 MASC_SG_NOM_3 FEM_PL_ACC PL_ACC FEM_PL_ACC MASC_SG_NOM_3 FEM_SG_DAT SG_DAT 
+	edition	 denne ̣augit ̣er dio mâsun , dio er in deru menniski . . . , 
+	pos	 ADV VVFIN PPER DDA NA $, DDSREL PPER APPR DDA NA $. $. $. $, 
+	text	 denne ̣augit ̣er dio masun , dio er in deru menniski . . . , 
+	translation	 dann offenbaren, (sich) zeigen er, sie, es der, die, das Narbe, Wundmal der, die, das er, sie, es in, an, bei der, die, das Menschheit, Menschsein 
+	lang	 goh goh goh goh goh goh goh goh goh goh 
+	clause	 CF_U_M CE 
+	inflectionClass	 WK1A N_FEM IN_FEM 
+	posLemma	 ADV VV PPER DD NA $, DD PPER AP DD NA $. $. $. $, 
+	inflectionClassLemma	 WK1A N_FEM IN_FEM 
+
+
+104.	tok	 dio  er  duruh  desse  mancunnes  minna  . . . .  
+	lemma	 der er duruh dese manakunni minna 
+	inflection	 FEM_PL_ACC MASC_SG_NOM_3 FEM_SG_ACC SG_GEN SG_ACC 
+	edition	 dio er duruh desse mancunnes minna . . . 
+	pos	 DDSREL PPER APPR DD NA NA $. $. $. $. 
+	text	 dio er duruh desse mancunnes minna . . . . 
+	translation	 der, die, das er, sie, es durch, vermittels; wegen, infolge, aufgrund, um … willen dieser, der; diese, die; dieses, das Menschengeschlecht, Menschheit Liebe, Zuneigung 
+	lang	 goh goh goh goh goh goh 
+	clause	 CE 
+	inflectionClass	 A_NEUT O_FEM 
+	posLemma	 DD PPER AP DD NA NA $. $. $. $. 
+	inflectionClassLemma	 JA_NEUT JO_FEM 
+
+
+
+
+finished

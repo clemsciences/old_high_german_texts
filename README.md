@@ -8,6 +8,11 @@
 $ pip install altdeutsch
 ```
 
+```
+line & meta::text = ‎"Muspilli‎"
+```
+
+
 
 ## License
 
